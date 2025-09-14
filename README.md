@@ -50,12 +50,6 @@ I aim to further develop my game development skills and work on creative project
   </a>
 </p>
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=unalalpmete&theme=gruvbox" alt="GitHub Trophies"/>
-</p>
-
 ## Contribution Graph
 
 <p align="center">
