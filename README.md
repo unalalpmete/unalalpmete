@@ -56,8 +56,4 @@ I aim to further develop my game development skills and work on creative project
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=unalalpmete&theme=react-dark" alt="Contribution Graph"/>
 </p>
 
-## Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/unalalpmete/unalalpmete/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
